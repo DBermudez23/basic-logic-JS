@@ -1,8 +1,8 @@
-/*FECHA DE PUBLICACIÓN: 12/07/2024
-HORA: 
-VERSIÓN CÓDIGO:
-AUTOR: 
-NOMBRE LENGUAJE UTILIZADO:
+/*FECHA DE PUBLICACIÓN: 13/07/2024
+HORA: 22:30
+VERSIÓN CÓDIGO: 1.0
+AUTOR: Daniel Bermudez Florez
+NOMBRE LENGUAJE UTILIZADO: Emascript 6.0 JavaScript
 UNIVERSIDAD TECNÓLOGICA DE PEREIRA
 ING. DE SISTEMAS Y COMPUTACIÓN
 Una empresa quiere hacer una compra de varias piezas de la misma clase a una fabrica de refacciones. La empresa, dependiendo del monto total de la compra, decidirá que hacer para pagar al fabricante.

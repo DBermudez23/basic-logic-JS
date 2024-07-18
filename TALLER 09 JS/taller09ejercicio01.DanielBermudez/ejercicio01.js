@@ -1,12 +1,11 @@
-/*FECHA DE PUBLICACIÓN: 12/07/2024
-HORA: 
-VERSIÓN CÓDIGO:
-AUTOR: 
-NOMBRE LENGUAJE UTILIZADO:
+/*FECHA DE PUBLICACIÓN: 13/07/2024
+HORA: 10:30
+VERSIÓN CÓDIGO: 1.0
+AUTOR: Daniel Bermudez Florez
+NOMBRE LENGUAJE UTILIZADO: Emascript 6.0 JavaScript
 UNIVERSIDAD TECNÓLOGICA DE PEREIRA
 ING. DE SISTEMAS Y COMPUTACIÓN
-Hacer un
-programa de computador, de tal manera que presente la serie de Fibonacci hasta llegar sin sobrepasar
+Hacer un programa de computador, de tal manera que presente la serie de Fibonacci hasta llegar sin sobrepasar
 el número 10,000.*/
 
 

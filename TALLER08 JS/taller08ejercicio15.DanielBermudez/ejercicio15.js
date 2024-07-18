@@ -1,8 +1,8 @@
-/*FECHA DE PUBLICACIÓN: 12/07/2024
-HORA: 
-VERSIÓN CÓDIGO:
-AUTOR: 
-NOMBRE LENGUAJE UTILIZADO:
+/*FECHA DE PUBLICACIÓN: 13/07/2024
+HORA: 22:30
+VERSIÓN CÓDIGO: 1.0
+AUTOR: Daniel Bermudez Florez
+NOMBRE LENGUAJE UTILIZADO: Emascript 6.0 JavaScript
 UNIVERSIDAD TECNÓLOGICA DE PEREIRA
 ING. DE SISTEMAS Y COMPUTACIÓN
 15- Hacer un algoritmo que calcule el total a pagar por la compra de camisas. Si se compran tres camisas o mas se aplica un descuento del 20% sobre el total de la compra y si son menos de tres camisas un descuento del 10%.*/
